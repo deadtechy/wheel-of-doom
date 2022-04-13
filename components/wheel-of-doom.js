@@ -4,8 +4,6 @@ import { useState } from 'react';
 
 import deadTechy from '../public/dead-techy.png';
 import people from '../data/people.json';
-people = people.filter((person) => person.enabled);
-// TODO: Automatically filter out people who did it already?
 
 export const WheelOfDoom = () => {
   const [selectedPerson, setSelectedPerson] = useState(null);
