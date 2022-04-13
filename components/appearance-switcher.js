@@ -4,7 +4,6 @@ import {
   useColorMode,
   useColorModeValue,
 } from '@chakra-ui/react';
-import { IoMoon, IoSunny } from 'react-icons/io5';
 import { FaSun, FaMoon } from 'react-icons/fa';
 
 export const AppearanceSwitcher = (props) => {

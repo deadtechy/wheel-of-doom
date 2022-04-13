@@ -1,7 +1,7 @@
 import { Flex, Heading, Icon, IconButton } from '@chakra-ui/react';
 import { FaGithubAlt } from 'react-icons/fa';
 
-import { AppearanceSwitcher } from '../components';
+import { AppearanceSwitcher } from './appearance-switcher';
 
 export const Header = () => (
   <Flex justifyContent="space-between" mb="4">

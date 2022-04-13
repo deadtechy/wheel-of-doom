@@ -1,4 +1,4 @@
-import { AppearanceSwitcher, WheelOfDoom } from '../components';
+import { WheelOfDoom } from '../components';
 
 const Home = () => <WheelOfDoom />;
 

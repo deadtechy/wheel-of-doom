@@ -1,4 +1,4 @@
-import { Container, Flex, Link, Text } from '@chakra-ui/react';
+import { Flex, Link, Text } from '@chakra-ui/react';
 
 export const Footer = () => (
   <Flex justifyContent="center">
