@@ -12,11 +12,10 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Inter', sans-serif !important; /* nasty, but it's late and I've had a few beers so yolo init */
+  font-family: 'Inter', sans-serif !important;
 }
 
-/* shameless stolen from https://codesandbox.io/s/github/hadriengerard/spinning-wheel-game-react */
-/* i'll make a better one when it's not 9pm and the night before it needs to be demo'd lol */
+/* https://codesandbox.io/s/github/hadriengerard/spinning-wheel-game-react  */
 :root {
   --wheel-size: 600px;
   --wheel-slice-spacing: 50px;
@@ -137,4 +136,5 @@ h6 {
   margin-top: -50px;
   width: 100px;
   height: 100px;
+  pointer-events: none;
 }

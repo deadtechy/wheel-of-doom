@@ -9,7 +9,7 @@ export const Header = () => (
     <Heading>DeadHappy Wheel of Doom</Heading>
     <IconButton
       as="a"
-      href={'https://github.com/jamieweavis/wheel-of-doom'}
+      href={'https://github.com/dead-happy-tech/wheel-of-doom'}
       aria-label="GitHub"
       variant="ghost"
       icon={<Icon as={FaGithubAlt} fontSize="lg" />}
