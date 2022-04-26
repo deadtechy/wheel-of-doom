@@ -23,15 +23,18 @@
   { "name": "Josh", "enabled": false },
   { "name": "Kanmi", "enabled": true },
   { "name": "Kate", "enabled": true },
+  { "name": "Kieran", "enabled": true },
   { "name": "Leah", "enabled": true },
   { "name": "Leighanne", "enabled": true },
   { "name": "Little Nick", "enabled": true },
+  { "name": "Marco", "enabled": true },
   { "name": "Matt", "enabled": true },
   { "name": "P-Head", "enabled": true },
   { "name": "Pablo", "enabled": true },
   { "name": "Phil", "enabled": false },
   { "name": "Sam", "enabled": true },
   { "name": "Stephen", "enabled": true },
+  { "name": "Steven", "enabled": true },
   { "name": "Tina", "enabled": true },
   { "name": "Welsh Cake", "enabled": true }
 ]
