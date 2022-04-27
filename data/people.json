@@ -6,7 +6,7 @@
   { "name": "Bal", "enabled": true },
   { "name": "Becks", "enabled": true },
   { "name": "Becky", "enabled": true },
-  { "name": "Big Nick", "enabled": true },
+  { "name": "Big Nick", "enabled": false },
   { "name": "Biro", "enabled": true },
   { "name": "Chance", "enabled": true },
   { "name": "Chris", "enabled": true },
