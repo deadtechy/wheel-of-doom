@@ -5,12 +5,12 @@ export const Footer = () => (
     <Text>
       Made with 🖤 by{' '}
       <Link
-        href="https://github.com/dead-happy-tech"
+        href="https://github.com/deadtechy"
         color="teal.500"
         target="_blank"
         isExternal
       >
-        DeadTechies
+        DeadTechy
       </Link>
     </Text>
   </Flex>
