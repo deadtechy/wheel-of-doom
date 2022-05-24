@@ -12,7 +12,7 @@
   { "name": "Chris", "enabled": true },
   { "name": "Claire", "enabled": true },
   { "name": "Dale", "enabled": true },
-  { "name": "Dom", "enabled": true },
+  { "name": "Dom", "enabled": false },
   { "name": "Eddy", "enabled": true },
   { "name": "Emma", "enabled": true },
   { "name": "Jack", "enabled": true },
